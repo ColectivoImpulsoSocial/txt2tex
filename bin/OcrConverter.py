@@ -1,5 +1,6 @@
 
 
+
 class OcrInterface:
     """
     Clase para ser una interface del 
