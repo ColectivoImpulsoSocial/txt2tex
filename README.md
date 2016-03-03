@@ -38,9 +38,9 @@ Este proyecto se divide en 4 partes:
 Repositorio para proyecto de digitalizar libros: scanearlos y con un OCR darles formato y corregir posibles errores
 
 ## TO DO
-- [] documentar dependencias
-- [] Crear una estructura de carpetas, sugerida: http://padre.perlide.org/features/project-management.html
-  - [] lib/
+- [ ] documentar dependencias
+- [ ] Crear una estructura de carpetas, sugerida: http://padre.perlide.org/features/project-management.html
+  - [ ] lib/
   - [x] bin/
-  - [] t/
-- [] Crear GUI
+  - [x] t/
+- [ ] Crear GUI
